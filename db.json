@@ -2,7 +2,43 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "suggestion": "Divide grandes tareas en pequeñas metas."
+    },
+    {
+      "id": 2,
+      "suggestion": "Utiliza una lista de tareas diarias."
+    },
+    {
+      "id": 3,
+      "suggestion": "Elimina distracciones mientras trabajas."
+    },
+    {
+      "id": 4,
+      "suggestion": "Prioriza tus tareas más importantes primero."
+    },
+    {
+      "id": 5,
+      "suggestion": "Toma descansos regulares para recargar energías."
+    },
+    {
+      "id": 6,
+      "suggestion": "Establece plazos para mantenerte enfocado."
+    },
+    {
+      "id": 7,
+      "suggestion": "Automatiza tareas repetitivas."
+    },
+    {
+      "id": 8,
+      "suggestion": "Aprende a delegar tareas cuando sea posible."
+    },
+    {
+      "id": 9,
+      "suggestion": "Mantén un espacio de trabajo organizado."
+    },
+    {
+      "id": 10,
+      "suggestion": "Usa técnicas de gestión del tiempo como Pomodoro."
     }
   ],
   "profile": {
